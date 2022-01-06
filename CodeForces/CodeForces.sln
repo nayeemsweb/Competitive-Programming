@@ -23,33 +23,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_71A_Way_Too_Long_Words", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_4A_Watermelon", "_4A_Watermelon\_4A_Watermelon.csproj", "{1DEDF2BF-4085-4C72-833D-8A1F83309924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_58A_Chat_room", "_58A_Chat_room\_58A_Chat_room.csproj", "{27531617-5EA5-452F-A1C3-77A83A4604B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_58A_Chat_room", "_58A_Chat_room\_58A_Chat_room.csproj", "{27531617-5EA5-452F-A1C3-77A83A4604B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_59A_Word", "_59A_Word\_59A_Word.csproj", "{A7EE6026-8298-4F76-8CBD-08B77A427F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_59A_Word", "_59A_Word\_59A_Word.csproj", "{A7EE6026-8298-4F76-8CBD-08B77A427F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_96A_Football", "_96A_Football\_96A_Football.csproj", "{BC2C5A3D-C036-493F-A136-83F3BA33092E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_96A_Football", "_96A_Football\_96A_Football.csproj", "{BC2C5A3D-C036-493F-A136-83F3BA33092E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_112A_Petya_and_Strings", "_112A_Petya_and_Strings\_112A_Petya_and_Strings.csproj", "{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_112A_Petya_and_Strings", "_112A_Petya_and_Strings\_112A_Petya_and_Strings.csproj", "{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_116A_Tram", "_116A_Tram\_116A_Tram.csproj", "{79952509-E2D3-4005-A8E7-1BC39BE99462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_116A_Tram", "_116A_Tram\_116A_Tram.csproj", "{79952509-E2D3-4005-A8E7-1BC39BE99462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_118A_String_Task", "_118A_String_Task\_118A_String_Task.csproj", "{8F67538D-1AEA-44BA-BD23-6AD79815DBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_118A_String_Task", "_118A_String_Task\_118A_String_Task.csproj", "{8F67538D-1AEA-44BA-BD23-6AD79815DBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_133A_HQ9+", "_133A_HQ9+\_133A_HQ9+.csproj", "{D960A013-D7F9-412E-B28A-CC2401A878EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_133A_HQ9+", "_133A_HQ9+\_133A_HQ9+.csproj", "{D960A013-D7F9-412E-B28A-CC2401A878EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_236A_Boy_or_Girl", "_236A_Boy_or_Girl\_236A_Boy_or_Girl.csproj", "{A4A0A26D-7881-4AEB-8337-6542669613BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_236A_Boy_or_Girl", "_236A_Boy_or_Girl\_236A_Boy_or_Girl.csproj", "{A4A0A26D-7881-4AEB-8337-6542669613BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_263A_Beautiful_Matrix", "_263A_Beautiful_Matrix\_263A_Beautiful_Matrix.csproj", "{7521A009-E4FD-4F10-862E-B0F2627A0FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_263A_Beautiful_Matrix", "_263A_Beautiful_Matrix\_263A_Beautiful_Matrix.csproj", "{7521A009-E4FD-4F10-862E-B0F2627A0FE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_266A_Stones_on_the_Table", "_266A_Stones_on_the_Table\_266A_Stones_on_the_Table.csproj", "{1628D1D4-EA1E-429F-95F7-168F455F5D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_266A_Stones_on_the_Table", "_266A_Stones_on_the_Table\_266A_Stones_on_the_Table.csproj", "{1628D1D4-EA1E-429F-95F7-168F455F5D7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_282A_Bit++", "_282A_Bit++\_282A_Bit++.csproj", "{7F171F95-F47F-42EA-8326-213FA91B608F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_282A_Bit++", "_282A_Bit++\_282A_Bit++.csproj", "{7F171F95-F47F-42EA-8326-213FA91B608F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_339A_Helpful_Maths", "_339A_Helpful_Maths\_339A_Helpful_Maths.csproj", "{1D326D4B-56B8-404C-AAFC-C677CF26515B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_339A_Helpful_Maths", "_339A_Helpful_Maths\_339A_Helpful_Maths.csproj", "{1D326D4B-56B8-404C-AAFC-C677CF26515B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_546A_Soldier_and_Bananas", "_546A_Soldier_and_Bananas\_546A_Soldier_and_Bananas.csproj", "{57A77BB3-9419-4C08-8A3A-14D884418BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_546A_Soldier_and_Bananas", "_546A_Soldier_and_Bananas\_546A_Soldier_and_Bananas.csproj", "{57A77BB3-9419-4C08-8A3A-14D884418BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_617A_Elephant", "_617A_Elephant\_617A_Elephant.csproj", "{72E6CCDB-3A4A-4611-9932-718E0E63D227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_617A_Elephant", "_617A_Elephant\_617A_Elephant.csproj", "{72E6CCDB-3A4A-4611-9932-718E0E63D227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_69A_Young_Physicist", "_69A_Young_Physicist\_69A_Young_Physicist.csproj", "{E7C66AA4-2485-4579-A262-6EE442CE1990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{72E6CCDB-3A4A-4611-9932-718E0E63D227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E6CCDB-3A4A-4611-9932-718E0E63D227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E6CCDB-3A4A-4611-9932-718E0E63D227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
