@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_59A_Word", "_59A_Word\_59A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_96A_Football", "_96A_Football\_96A_Football.csproj", "{BC2C5A3D-C036-493F-A136-83F3BA33092E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_112A_Petya_and_Strings", "_112A_Petya_and_Strings\_112A_Petya_and_Strings.csproj", "{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BC2C5A3D-C036-493F-A136-83F3BA33092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2C5A3D-C036-493F-A136-83F3BA33092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2C5A3D-C036-493F-A136-83F3BA33092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
