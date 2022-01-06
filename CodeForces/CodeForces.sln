@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_133A_HQ9+", "_133A_HQ9+\_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_236A_Boy_or_Girl", "_236A_Boy_or_Girl\_236A_Boy_or_Girl.csproj", "{A4A0A26D-7881-4AEB-8337-6542669613BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_263A_Beautiful_Matrix", "_263A_Beautiful_Matrix\_263A_Beautiful_Matrix.csproj", "{7521A009-E4FD-4F10-862E-B0F2627A0FE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7521A009-E4FD-4F10-862E-B0F2627A0FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7521A009-E4FD-4F10-862E-B0F2627A0FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7521A009-E4FD-4F10-862E-B0F2627A0FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7521A009-E4FD-4F10-862E-B0F2627A0FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
