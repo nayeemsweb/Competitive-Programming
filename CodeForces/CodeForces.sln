@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_263A_Beautiful_Matrix", "_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_266A_Stones_on_the_Table", "_266A_Stones_on_the_Table\_266A_Stones_on_the_Table.csproj", "{1628D1D4-EA1E-429F-95F7-168F455F5D7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_282A_Bit++", "_282A_Bit++\_282A_Bit++.csproj", "{7F171F95-F47F-42EA-8326-213FA91B608F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{1628D1D4-EA1E-429F-95F7-168F455F5D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1628D1D4-EA1E-429F-95F7-168F455F5D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1628D1D4-EA1E-429F-95F7-168F455F5D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F171F95-F47F-42EA-8326-213FA91B608F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F171F95-F47F-42EA-8326-213FA91B608F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F171F95-F47F-42EA-8326-213FA91B608F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F171F95-F47F-42EA-8326-213FA91B608F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
