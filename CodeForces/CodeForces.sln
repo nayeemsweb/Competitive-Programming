@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_282A_Bit++", "_282A_Bit++\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_339A_Helpful_Maths", "_339A_Helpful_Maths\_339A_Helpful_Maths.csproj", "{1D326D4B-56B8-404C-AAFC-C677CF26515B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_546A_Soldier_and_Bananas", "_546A_Soldier_and_Bananas\_546A_Soldier_and_Bananas.csproj", "{57A77BB3-9419-4C08-8A3A-14D884418BDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{1D326D4B-56B8-404C-AAFC-C677CF26515B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D326D4B-56B8-404C-AAFC-C677CF26515B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D326D4B-56B8-404C-AAFC-C677CF26515B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A77BB3-9419-4C08-8A3A-14D884418BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A77BB3-9419-4C08-8A3A-14D884418BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A77BB3-9419-4C08-8A3A-14D884418BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A77BB3-9419-4C08-8A3A-14D884418BDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
