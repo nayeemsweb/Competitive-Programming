@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_96A_Football", "_96A_Footb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_112A_Petya_and_Strings", "_112A_Petya_and_Strings\_112A_Petya_and_Strings.csproj", "{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_116A_Tram", "_116A_Tram\_116A_Tram.csproj", "{79952509-E2D3-4005-A8E7-1BC39BE99462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93DC5C71-E236-4006-9DC1-CF6C2BEA5BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79952509-E2D3-4005-A8E7-1BC39BE99462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79952509-E2D3-4005-A8E7-1BC39BE99462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79952509-E2D3-4005-A8E7-1BC39BE99462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79952509-E2D3-4005-A8E7-1BC39BE99462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
