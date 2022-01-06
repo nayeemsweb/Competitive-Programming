@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_118A_String_Task", "_118A_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_133A_HQ9+", "_133A_HQ9+\_133A_HQ9+.csproj", "{D960A013-D7F9-412E-B28A-CC2401A878EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_236A_Boy_or_Girl", "_236A_Boy_or_Girl\_236A_Boy_or_Girl.csproj", "{A4A0A26D-7881-4AEB-8337-6542669613BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D960A013-D7F9-412E-B28A-CC2401A878EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D960A013-D7F9-412E-B28A-CC2401A878EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D960A013-D7F9-412E-B28A-CC2401A878EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A0A26D-7881-4AEB-8337-6542669613BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
