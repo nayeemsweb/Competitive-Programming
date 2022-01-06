@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_617A_Elephant", "_617A_Ele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_69A_Young_Physicist", "_69A_Young_Physicist\_69A_Young_Physicist.csproj", "{E7C66AA4-2485-4579-A262-6EE442CE1990}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_266B_Queue_at_the_School", "_266B_Queue_at_the_School\_266B_Queue_at_the_School.csproj", "{7397DD8E-4C33-4D52-A040-45ADAE22A491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C66AA4-2485-4579-A262-6EE442CE1990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7397DD8E-4C33-4D52-A040-45ADAE22A491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7397DD8E-4C33-4D52-A040-45ADAE22A491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7397DD8E-4C33-4D52-A040-45ADAE22A491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7397DD8E-4C33-4D52-A040-45ADAE22A491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
