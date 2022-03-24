@@ -4,3 +4,4 @@
 - [Codeforces](https://github.com/nayeemsweb/Competitive-Programming/tree/codeforces)
 - [URI Online Judge](https://github.com/nayeemsweb/Competitive-Programming/tree/uri-online-judge)
 - [Leetcode](https://github.com/nayeemsweb/Competitive-Programming/tree/leetcode)
+- [Algo Expert](https://github.com/nayeemsweb/Competitive-Programming/tree/algoExpert)
