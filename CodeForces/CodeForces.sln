@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_43A_Football", "_43A_Footb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1660A_Vasya_and_Coins", "_1660A_Vasya_and_Coins\_1660A_Vasya_and_Coins.csproj", "{8AA8780B-644F-4CFB-9E17-769D21EB1F7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_271A_Beautiful_Year", "_271A_Beautiful_Year\_271A_Beautiful_Year.csproj", "{4FC34E88-EFE4-4844-9DFD-096833C10F9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{8AA8780B-644F-4CFB-9E17-769D21EB1F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA8780B-644F-4CFB-9E17-769D21EB1F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA8780B-644F-4CFB-9E17-769D21EB1F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC34E88-EFE4-4844-9DFD-096833C10F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC34E88-EFE4-4844-9DFD-096833C10F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC34E88-EFE4-4844-9DFD-096833C10F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC34E88-EFE4-4844-9DFD-096833C10F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
