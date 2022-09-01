@@ -8,7 +8,8 @@ namespace _4A_Watermelon
         {
             int w = Convert.ToInt32(Console.ReadLine());
 
-            if (w == 2)
+            //Checking Logic
+		if (w == 2)
             {
                 Console.WriteLine("No");
             }
