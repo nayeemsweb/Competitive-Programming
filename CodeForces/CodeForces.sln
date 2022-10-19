@@ -63,9 +63,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1660A_Vasya_and_Coins", "_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_271A_Beautiful_Year", "_271A_Beautiful_Year\_271A_Beautiful_Year.csproj", "{4FC34E88-EFE4-4844-9DFD-096833C10F9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_677A_Vanya_and_Fence", "_677A_Vanya_and_Fence\_677A_Vanya_and_Fence.csproj", "{78C18ED2-756B-4DDF-A4DF-B190F897BACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_677A_Vanya_and_Fence", "_677A_Vanya_and_Fence\_677A_Vanya_and_Fence.csproj", "{78C18ED2-756B-4DDF-A4DF-B190F897BACA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_467A_George_and_Accommodation", "_467A_George_and_Accommodation\_467A_George_and_Accommodation.csproj", "{54D82466-371F-4F2E-A9F6-B5F614AA857B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_467A_George_and_Accommodation", "_467A_George_and_Accommodation\_467A_George_and_Accommodation.csproj", "{54D82466-371F-4F2E-A9F6-B5F614AA857B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_231A_Team", "_231A_Team\_231A_Team.csproj", "{2A159DFA-3F85-4F43-9D3F-9D896502C814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{54D82466-371F-4F2E-A9F6-B5F614AA857B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54D82466-371F-4F2E-A9F6-B5F614AA857B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54D82466-371F-4F2E-A9F6-B5F614AA857B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
