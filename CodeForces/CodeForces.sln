@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_677A_Vanya_and_Fence", "_6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_467A_George_and_Accommodation", "_467A_George_and_Accommodation\_467A_George_and_Accommodation.csproj", "{54D82466-371F-4F2E-A9F6-B5F614AA857B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_231A_Team", "_231A_Team\_231A_Team.csproj", "{2A159DFA-3F85-4F43-9D3F-9D896502C814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_231A_Team", "_231A_Team\_231A_Team.csproj", "{2A159DFA-3F85-4F43-9D3F-9D896502C814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_110A_Nearly_Lucky_Number", "_110A_Nearly_Lucky_Number\_110A_Nearly_Lucky_Number.csproj", "{9ED6A0FB-BFB4-42C1-AA47-C7BB24386581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A159DFA-3F85-4F43-9D3F-9D896502C814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED6A0FB-BFB4-42C1-AA47-C7BB24386581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED6A0FB-BFB4-42C1-AA47-C7BB24386581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED6A0FB-BFB4-42C1-AA47-C7BB24386581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED6A0FB-BFB4-42C1-AA47-C7BB24386581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
